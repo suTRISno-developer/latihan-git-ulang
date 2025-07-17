@@ -1,2 +1,3 @@
 Belajar Git Ulang Bareng ChatGPT
 Baris dari fitur B (potensi konflik dengan A
+Baris tambahan _fitur-b (potensi konflik)
