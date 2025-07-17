@@ -1,3 +1,4 @@
 Belajar Git Ulang Bareng ChatGPT
 Menambahkan catatan.txt di fitur-a
 Baris tambahan _fitur-a (PR 1)
+Baris dari fitur B (potensi konflik dengan A)
