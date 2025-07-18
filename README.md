@@ -1,14 +1,22 @@
 # Latihan Git Ulang
 
 Repository ini digunakan untuk latihan Git & GitHub secara bertahap bersama ChatGPT.
+Tujuannya adalah memahami dasar Git, branching, merge, konflik, dan pull request.
 
-## Fitur
-- fitur-a: Menambahkan baris belajar
-- fitur-b: Simulasi konflik antar branch
-- fitur-c: Dokumentasi dasar
+---
 
-## Cara Menjalankan
-1. Clone repo
-2. Buat branch
-3. Commit dan push perubahan
+## Struktur Branch
 
+- 'main' : Branch utama
+- 'fitur-a' : Menambahkan catatan awal
+- 'fitur-b' : Simulasi konflik dan merge
+- 'fitur-c' : Dokumentasi proyek dengan README.md
+
+---
+
+## Langkah Penggunaan
+
+1. **Clone repositori**
+   '''bash
+   git clone https://github.com/suTRISno-developer/latihan-git-ulang.git
+   cd latihan-git-ulang
